@@ -714,7 +714,7 @@ nav {
 }
 
 
-@media (width >   319px) {
+@media (width >   312px) {
     .header__container {
         padding-block: 10rem 5rem;
       }
